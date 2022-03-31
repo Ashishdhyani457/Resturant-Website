@@ -1,0 +1,18 @@
+#contact{
+    width: 90%;
+    margin-left: 5%;
+   
+}
+#message{
+    resize: none;
+    /* height: 10%; */
+}
+#about{
+
+}
+#order{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2%;
+    padding-right: 2%;
+}
